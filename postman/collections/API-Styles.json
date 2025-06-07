@@ -340,6 +340,26 @@
 				}
 			],
 			"id": "2a7fa9a9-0a2d-4cb0-b1c3-6719b6761b5f"
+		},
+		{
+			"name": "GraphQL",
+			"item": [],
+			"id": "c1a69ad2-c6ed-46fe-9182-aecf22f0b358"
+		},
+		{
+			"name": "gRPC",
+			"item": [],
+			"id": "f0b208f1-a7d5-4f7b-b40e-03e12e796eb5"
+		},
+		{
+			"name": "WebSocket",
+			"item": [],
+			"id": "7ea80fc8-c8ed-4816-ab29-2ced3fd0ae2f"
+		},
+		{
+			"name": "Webhooks",
+			"item": [],
+			"id": "ea250dac-0e1b-42e5-b134-dd9329ec86be"
 		}
 	]
 }
